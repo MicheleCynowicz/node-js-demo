@@ -1,0 +1,22 @@
+{
+  "name": "node-js-demo",
+  "version": "1.0.0",
+  "description": "my node js demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicheleCynowicz/node-js-demo.git"
+  },
+  "author": "Michele Cynowicz #CodePirate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicheleCynowicz/node-js-demo/issues"
+  },
+  "homepage": "https://github.com/MicheleCynowicz/node-js-demo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
